@@ -119,7 +119,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                           MaterialPageRoute(
                             builder: (context) => const Aboutplants(
                               plantImagePath: 'Images/Monstera.jpeg',
-                              plantName: 'Monstera',
+                              plantName: 'MONSTERA',
                             ),
                           ),
                         );
@@ -136,7 +136,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                           MaterialPageRoute(
                             builder: (context) => const Aboutplants(
                               plantImagePath: 'Images/Cactus.jpg',
-                              plantName: 'Cactus',
+                              plantName: 'CACTUS',
                             ),
                           ),
                         );
@@ -153,7 +153,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                           MaterialPageRoute(
                             builder: (context) => const Aboutplants(
                               plantImagePath: 'Images/Crassula3.jpeg',
-                              plantName: 'Crassula',
+                              plantName: 'CRASSULA',
                             ),
                           ),
                         );
@@ -170,7 +170,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                           MaterialPageRoute(
                             builder: (context) => const Aboutplants(
                               plantImagePath: 'Images/Ficus.jpg',
-                              plantName: 'Ficus',
+                              plantName: 'FICUS',
                             ),
                           ),
                         );
